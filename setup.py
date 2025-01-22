@@ -18,7 +18,7 @@ setup(
     name='diamond_price',
     version='0.0.1',
     author='Yash',
-    author_email='yashrohitgupta@gmail.com',
+    author_email='yash**********@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages(),
 )
